@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Chemotherapy",
+      "price": 10000,
+      "description": "Chemotherapy is a drug treatment that uses powerful chemicals to kill fast-growing cells in your body. Chemotherapy is most often used to treat cancer, since cancer cells grow and multiply much more quickly than most cells in the body. Many different chemotherapy drugs are available",
+      "img": "https://assets.telegraphindia.com/telegraph/9d02dc06-cc43-47f4-9edc-b79ae99b76f1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Radiotherapy",
+      "price": 20000,
+      "description": "Radiation therapy (also called radiotherapy) is a cancer treatment that uses high doses of radiation to kill cancer cells and shrink tumors. At low doses, radiation is used in x-rays to see inside your body, as with x-rays of your teeth or broken bones.",
+      "img": "https://www.narayanahealth.org/blog/wp-content/uploads/2015/02/radiation.png"
+    },
+    {
+      "id": 3,
+      "name": "Hormone therapy",
+      "price": 30000,
+      "description": "Hormone therapy is a cancer treatment that slows or stops the growth of cancer that uses hormones to grow. Hormone therapy is also called hormonal therapy, hormone treatment, or endocrine therapy.",
+      "img": "https://www.issm.info/images/2021/08/12/01-02-17_hormone_therapy_601119494.jpg"
+    }
+  ]
